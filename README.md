@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>- A psychological horror game in Unity focused on immersive storytelling and puzzles.<br><br>🤝 I’m looking to collaborate on  <br>- Indie game projects with cool mechanics or narrative-driven experiences.<br><br>🌱 I’m currently learning  <br>- Advanced C# patterns and optimization techniques for Unity.<br><br>💬 Ask me about  <br>- Game development, C# scripting, or horror game design.<br><br>⚡ Fun fact  <br>- I’m running my own indie game studio with friends — and loving every minute of it!
+🔭 I’m currently working on  <br>- A psychological horror game in Unity focused on immersive storytelling and puzzles.<br><br>🤝 I’m looking to collaborate on  <br>- Indie game projects with cool mechanics or narrative-driven experiences.<br><br>🌱 I’m currently learning  <br>- Advanced C# patterns and optimization techniques for Unity.<br><br>💬 Ask me about  <br>- Game development, C# scripting, or horror game design.<br><br>⚡ Fun fact  <br>- I’m running my own indie game studio with friends - and loving every minute of it!
 
 
 ## 🌐 Socials:
